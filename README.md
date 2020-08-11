@@ -39,7 +39,7 @@ Finally, the target security level is obtained through the comparison of the ris
 
 ## Basic usage
 
-![diagram](.\diagram.png)
+![diagram](./diagram.png)
 
 
 
