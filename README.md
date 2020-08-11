@@ -24,7 +24,7 @@ Finally, the target security level is obtained through the comparison of the ris
 
 ## How to run 
 
-![ribbon](.\ribbon.png)
+![ribbon](./ribbon.png)
 
 - Scenario Probability: opens a form to estimate quickly the probability of its occurrence based on the vulnerabilities associated with the assets that make up the zone or conduit
 - Simulation: performs a Monte Carlo simulation of the losses caused in the different scenarios. As a result of the simulation is obtained:
