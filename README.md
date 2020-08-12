@@ -4,7 +4,7 @@
 
 This application calculates the target security level of a zone or conduit by performing a quantitative risk analysis of different scenarios.
 
-Risk analysis considers the economic impact of each scenario, based on a Monte Carlo simulation, and the probability of occurrence of that scenario from an assessment of the vulnerabilities of the assets included in the zone or conduit. 
+Risk analysis considers the economic impact of each scenario, based on a Montecarlo simulation, and the probability of occurrence of that scenario from an assessment of the vulnerabilities of the assets included in the zone or conduit. 
 
 Finally, the target security level is obtained through the comparison of the risk associated with the different scenarios and the company's EBITDA. 
 
