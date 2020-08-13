@@ -6,6 +6,7 @@
 2. [Features](https://github.com/MCYP-UniversidadReyJuanCarlos/19-20_frripe#features)
 3. [How to run](https://github.com/MCYP-UniversidadReyJuanCarlos/19-20_frripe#how-to-run)
 4. [Basic usage](https://github.com/MCYP-UniversidadReyJuanCarlos/19-20_frripe#basic-usage)
+5. [References](https://github.com/MCYP-UniversidadReyJuanCarlos/19-20_frripe#references)
 
 
 
@@ -52,6 +53,6 @@ Finally, the target security level is obtained through the comparison of the ris
 
 
 
-## Documentation
+## References
 
 - [Report](https://github.com/MCYP-UniversidadReyJuanCarlos/19-20_frripe/blob/master/TFM_memoria.pdf)
