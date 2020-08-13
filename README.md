@@ -27,7 +27,7 @@ Finally, the target security level is obtained through the comparison of the ris
 ![ribbon](./resources/ribbon.png)
 
 - Scenario Probability: opens a form to estimate quickly the probability of its occurrence based on the vulnerabilities associated with the assets that make up the zone or conduit
-- Simulation: performs a Monte Carlo simulation of the losses caused in the different scenarios. As a result of the simulation is obtained:
+- Simulation: performs a Montecarlo simulation of the losses caused in the different scenarios. As a result of the simulation is obtained:
         o Simulated inherent loss of the scenarios included in each domain.
         o Weighted probability of the scenarios assigned to each domain.
         o Target Security Level of the zone or conduit.
