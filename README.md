@@ -52,7 +52,3 @@ Finally, the target security level is obtained through the comparison of the ris
 ![diagram](./resources/diagram.png)
 
 
-
-## References
-
-- [Report](https://github.com/MCYP-UniversidadReyJuanCarlos/19-20_frripe/blob/master/TFM_memoria.pdf)
