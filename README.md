@@ -6,7 +6,6 @@
 2. [Features](https://github.com/MCYP-UniversidadReyJuanCarlos/19-20_frripe#features)
 3. [How to run](https://github.com/MCYP-UniversidadReyJuanCarlos/19-20_frripe#how-to-run)
 4. [Basic usage](https://github.com/MCYP-UniversidadReyJuanCarlos/19-20_frripe#basic-usage)
-5. [References](https://github.com/MCYP-UniversidadReyJuanCarlos/19-20_frripe#references)
 
 
 
