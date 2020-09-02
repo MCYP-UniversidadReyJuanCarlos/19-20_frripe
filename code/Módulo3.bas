@@ -366,7 +366,7 @@ End Sub
 Private Sub informe3()
 
 
-    name = "3. Valoración cuantitativa de los escenarios en cada dominio (Pérdida Inherente)"
+    name = "3. Valoración cuantitativa de los escenarios en cada dominio (Pérd. Inherente)"
     
     With Selection
         .HorizontalAlignment = xlLeft
@@ -503,7 +503,7 @@ End Sub
 Private Sub informe4()
 
 
-    name = "4. Valoración cuantitativa de los escenarios en cada dominio (Pérdida Residual)"
+    name = "4. Valoración cuantitativa de los escenarios en cada dominio (Pérd. Residual)"
     
     With Selection
         .HorizontalAlignment = xlLeft
